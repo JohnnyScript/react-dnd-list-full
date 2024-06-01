@@ -1,0 +1,17 @@
+{
+  "name": "react-dnd-list-full",
+  "version": "0.0.1",
+  "description": "Light and customizable drag and drop list for React, with no additional dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "react": "^18.3.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.5"
+  }
+}
